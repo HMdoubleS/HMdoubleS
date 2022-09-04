@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HMdoubleS
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning HTML, CSS and Javascript with openclassrooms
-- 💞️ I’m looking to collaborate on nothing just yet..
+
 
 
 <!---
